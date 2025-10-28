@@ -1,0 +1,3 @@
+#Tries to fire all, and it is succesful.
+GT4500,5,0,10,0
+TORPEDO,ALL
