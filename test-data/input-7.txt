@@ -1,0 +1,3 @@
+#The secondary was emty. It fires the first.
+GT4500,9,0,0,0
+TORPEDO,SINGLE
