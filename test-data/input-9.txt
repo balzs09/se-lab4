@@ -1,0 +1,3 @@
+#It alterantes firing between stores, both have torpedos.
+GT4500,4,0,9,0
+TORPEDO,SINGLE  

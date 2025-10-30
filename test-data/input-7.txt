@@ -1,3 +1,3 @@
-#The secondary was emty. It fires the first.
-GT4500,9,0,0,0
-TORPEDO,SINGLE
+#Tries to fire both, but both have 1 as failure rates so it will fail.
+GT4500,9,1,4,1
+TORPEDO,ALL
