@@ -1,0 +1,4 @@
+#The primary store has torpedos, but the secondary doenst have so it shoots from the first one again.
+GT4500,4,0,0,0
+TORPEDO,SINGLE  
+TORPEDO,SINGLE

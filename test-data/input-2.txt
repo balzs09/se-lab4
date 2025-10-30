@@ -1,0 +1,3 @@
+#The primary store will has torpedos but it will fail because of failure rate.
+GT4500,2,1.0,10,0
+TORPEDO,SINGLE  # should have fired from the primary store
